@@ -1,6 +1,5 @@
-**Jeff Milling**
+# Jeff Milling - Senior Software Engineer
 
-- Senior Software Engineer
 - 📧 [jeffm3075@gmail.com](mailto:jeffm3075@gmail.com)
 - 📞 (505) xxx-xxxx (Please ask)
 - 🌎 Albuquerque, New Mexico
@@ -8,7 +7,7 @@
 
 # Summary
 
-Proficient developer, lifelong technologist, problem solver, bringing efficiency and elegance to chaotic code and processes. Wearer of many hats, mainly programming, with aptitudes in DevOps, UI, QA, project management, and team leadership. Mentor, collaborator, and loyal team player. Quickly adaptable to any environment and tech stack. Comfortable with code reviews, version control, CI/CD, and AI/Agent/LLM tools.
+Proficient developer, lifelong technologist, problem solver. Bringing efficiency and elegance to chaotic code and processes. Wearer of many hats, mainly programming, with aptitudes in DevOps, design, QA, security, strategy, and team leadership. Mentor, collaborator, and loyal team player. Quickly adaptable to any environment and tech stack. Comfortable with code reviews, version control, CI/CD, and AI/Agent/LLM tools.
 
 # Skills
 
@@ -19,7 +18,6 @@ Proficient developer, lifelong technologist, problem solver, bringing efficiency
 - Shell scripting
 - UNIX command line
 - Unit testing
-- Version Control
 - Linux, Windows, MacOS
 
 ### Languages & Frameworks
@@ -48,42 +46,42 @@ Proficient developer, lifelong technologist, problem solver, bringing efficiency
 - SQLite
 - Redis
 
-# Recent Work Experience
+# Recent Work
 
 ### Senior Software Engineer
 
-#### SuperMoney, LLC, Santa Ana, CA (Remote)
+#### SuperMoney, LLC 🌎 Santa Ana, CA (Remote)
 
 📅 June 2022 – Sept. 2025
 📅 May 2013 – April 2020
 
-- Founding member of web team. Designed initial database, website foundation, server/hosting setup, and internal tools.
-- Built and maintained custom tools for marketing teams to manage data, churn out content, and steadily boost traffic.
+- Founding team member. Designed and built initial database, PHP/MySQL backend, and Apache server/hosting setup.
+- Built and maintained internal admin tools for marketing team to manage data, churn out content, and steadily boost traffic.
 - Modernized core product with major conversion to Next.js/React.
 - Performed extensive, detailed, daily code reviews.
 - Collaborated with teammates through calls and pair coding.
 
 ### Lead Developer
 
-#### Boomtime (Sevence, LLC) Albuquerque, NM (Remote)
+#### Boomtime (Sevence, LLC) 🌎 Albuquerque, NM (Remote)
 
 📅 March 2021 – March 2022
 
 - Tech Lead and mentor for a team of junior developers.
-- Addressed backlogged issues, maintained and refurbished company’s legacy marketing app.
-- Led an effort to build next-gen reboot of marketing app.
-- Assisted in migration of a mission-critical customer billing system.
+- Addressed backlogged issues, maintained and refurbished legacy marketing app (PHP/MySQL).
+- Built next-gen reboot of marketing app in Vue/Node.js.
+- Migrated a mission-critical third-party customer billing system.
 - Company dissolved in March 2022.
 
 ### Consultant / Programmer
 
-#### JMX Media, LLC, Albuquerque, NM
+#### JMX Media, LLC 🌎 Albuquerque, NM
 
 📅 Sept. 2003 – Current
 
-- Between jobs, and in addition to my full-time career, I’ve provided specialized consulting services to a diverse range of clients in education, government, marketing, finance, and private sector.
-- For personal projects, I’ve dabbled in browser- and engine-based game development, livestreaming, audio and video production, LLMs, text-to-speech, procedural generation, and more.
+- Between jobs and in addition to my full-time career, I’ve maintained a self-employed consulting business providing services to a diverse range of clients in education, government, marketing, finance, and private sector.
+- For personal projects, I’ve dabbled in browser- and engine-based game development, audio and video production, LLM automation and vectorization, procedural generation, and more.
 
 ### References available upon request.
 
-### Complete work history available upon request.
+### Full work history available upon request.
